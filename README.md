@@ -1,6 +1,3 @@
 # BioInformatics
-## THIS IS A README MD FILE
-### getting started 2021-3-7
-To Do List
-- Do my homework
-- Keep coding!
+## README file
+This repo is created for the bioinformatics course taught by Zhi J. Lu in 2021 spring, Tsinghua University.
