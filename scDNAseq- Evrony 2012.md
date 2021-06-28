@@ -2,7 +2,7 @@
 ### Reproduce from Gilad D. Evrony et al., Cell, 2012
 #### Codes
 1. Bamcoverge
-```
+```python3
 #For homework 3
 #bamcoverage.py
 
@@ -163,7 +163,7 @@ end
 fclose(fid);
 ```
 3. multibamsummary
-```python
+```python3
 #multibamsummary.py
 #after getbins.m
 #count B_Ref, B_Sample
