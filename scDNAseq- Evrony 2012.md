@@ -2,7 +2,7 @@
 ### Reproduce from Gilad D. Evrony et al., Cell, 2012
 #### Codes
 1. Bamcoverge
-```json
+```
 #For homework 3
 #bamcoverage.py
 
@@ -93,7 +93,7 @@ with open( 'tkybamcov2.sh' , 'w' ) as fh:
 #go to getbins.m
 ```
 2. get bins for genome
-```json
+```matlab
 %getbins.m
 % get bins for genome
 a = importdata('SRR536742.5000.c24.bdg'); %enter reference bdg file
@@ -163,7 +163,7 @@ end
 fclose(fid);
 ```
 3. multibamsummary
-```json
+```python
 #multibamsummary.py
 #after getbins.m
 #count B_Ref, B_Sample
@@ -232,7 +232,7 @@ with open( 'tkymtbam0528.sh' , 'w' ) as fh:
 #go to countbins.m
 ```
 4. count and process bins
-```json
+```matlab
 %countbins.m
 %count and process bins
 
